@@ -1,0 +1,5 @@
+Today, we will use a generated dataset consist of sentences about chess and sentences unrelated to chess. The generated dataset details are available in the experiment notebook; the aim is to use "Bag Of Words (BoW)" vectorization to train an AI Agent that classifies a given sentence to either this sentence talks about chess or it does not. 
+
+This week we will focus on multiple different NLP vectorization techniques therefore we will keep using the same experiment and only change the vectorization technique to test and note differences among those experiments. 
+
+Finally, this is all goes back to making sure my skills are up to date and that learnt principles stay in shape 
